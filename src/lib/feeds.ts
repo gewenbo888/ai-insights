@@ -58,7 +58,7 @@ const FEEDS: FeedSource[] = [
   },
   {
     name: "Anthropic Blog",
-    url: "https://www.anthropic.com/rss.xml",
+    url: "https://www.anthropic.com/feed.xml",
     category: "Research",
     siteUrl: "https://www.anthropic.com",
   },
