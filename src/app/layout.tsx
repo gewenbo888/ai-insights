@@ -13,6 +13,7 @@ export const metadata: Metadata = {
     languages: { en: "/", zh: "/", "x-default": "/" },
   },
   openGraph: {
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "AI Insights" }],
     title: "AI Insights",
     description: "The Pulse of Artificial Intelligence",
     url: "https://insights.psyverse.fun/",
@@ -22,6 +23,7 @@ export const metadata: Metadata = {
     alternateLocale: ["zh_CN"],
   },
   twitter: {
+    images: ["/twitter-image.png"],
     card: "summary_large_image",
     title: "AI Insights",
     description: "The Pulse of Artificial Intelligence",
